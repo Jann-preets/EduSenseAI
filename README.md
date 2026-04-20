@@ -117,7 +117,12 @@ Output:
 
 🤝 Contributing
 
-Contributions are welcome. Feel free to fork this repo and submit a pull request.
+TEAM MEMBERS:
+* Janar Preethika
+* Prithika
+* Harini
+* Nainika
+* Shreyaa
 
 ---
 
