@@ -118,11 +118,11 @@ Output:
 🤝 Contributing
 
 TEAM MEMBERS:
-Janar Preethika
-Prithika
-Harini
-Nainika
-Shreyaa
+* Janar Preethika
+* Prithika
+* Harini
+* Nainika
+* Shreyaa
 ---
 
 📄 License
